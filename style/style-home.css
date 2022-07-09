@@ -17,8 +17,7 @@ body{
 
 .titulo-centralizado{
     text-align: center;
-    height: 150px;
-    border: 10px solid black;
+    font-size: 30px;
     padding: 20px;
     margin: 40px;
 }
